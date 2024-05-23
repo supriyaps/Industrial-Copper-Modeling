@@ -51,33 +51,4 @@ scaler.fit(X_train)
 scaler.transform(X_train)
 scaler.transform(X_test_new) #unseen data
 
-The learning outcomes of this project are: 
 
-Developing proficiency in Python programming language and its data analysis libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and Streamlit.
-
-Gaining experience in data preprocessing techniques such as handling missing values, outlier detection, and data normalization to prepare data for machine learning modeling.
-
-Understanding and visualizing the data using EDA techniques such as boxplots, histograms, and scatter plots.
-
-Learning and applying advanced machine learning techniques such as regression and classification to predict continuous and binary target variables, respectively.
-
-Building and optimizing machine learning models using appropriate evaluation metrics and techniques such as cross-validation and grid search.
-
-Experience in feature engineering techniques to create new informative representations of the data.
-
-Developing a web application using the Streamlit module to showcase the machine learning models and make predictions on new data.
-
-Understanding the challenges and best practices in the manufacturing domain and how machine learning can help solve them.
-
-Overall, this project will equip you with practical skills and experience in data analysis, machine learning modeling, and creating interactive web applications, and provide you with a solid foundation to tackle real-world problems in the manufacturing domain.
-
-Project Evaluation metrics:
-You are supposed to write a code in a modular fashion (in functional blocks)
-Maintainable: It can be maintained, even as your codebase grows.
-Portable: It works the same in every environment (operating system)
-You have to maintain your code on GitHub.(Mandatory)
-You have to keep your GitHub repo public so that anyone can check your code.(Mandatory)
-Proper readme file you have to maintain for any project development(Mandatory)
-You should include basic workflow and execution of the entire project in the readme file on GitHub (Mandatory)
-Follow the coding standards: https://www.python.org/dev/peps/pep-0008/
-You need to Create a Demo video of your working model and post in LinkedIn(Mandatory)
